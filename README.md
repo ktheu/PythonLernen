@@ -27,7 +27,11 @@
 - [Dictionaries](./videos/dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)     
 - [Sets](./videos/sets.ipynb) - [video](https://youtu.be/tm5EdppTffQ)   
 - [Comprehensions](./videos/comprehensions.ipynb) - [video](https://youtu.be/QTRYguhzUzA)  
-- [Einlesen](./videos/einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)   
+- [Einlesen](./videos/einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)  
+
+---
+
+[Coding Labs](https://beta.codinglabs-projekt.de/)
 
  
 
