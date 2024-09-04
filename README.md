@@ -14,7 +14,7 @@
 
 ------
 
-[Selbstlernkurs CSCIRCLES](https://cscircles.cemc.uwaterloo.ca/de/)
+- [Selbstlernkurs CSCIRCLES](https://cscircles.cemc.uwaterloo.ca/de/)
 
  
  
