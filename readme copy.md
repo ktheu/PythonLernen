@@ -1,9 +1,7 @@
 
 ## Python Lernen
 
-- [Level1](./Level1/) - [Lösungen](./Level1_sol/)
-
-<!-- - [Variablen](./01_variablen.ipynb)
+- [Variablen](./01_variablen.ipynb)
 - [Bedingungen](./02_bedingungen.ipynb)
 - [for-Schleife mit range](./03_range.ipynb)
 - [Indexing bei Strings](./04_strings.ipynb)
@@ -33,7 +31,7 @@
 
 ---
 
-[Coding Labs](https://beta.codinglabs-projekt.de/) -->
+[Coding Labs](https://beta.codinglabs-projekt.de/)
 
  
 
