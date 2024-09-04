@@ -7,7 +7,7 @@
 
 ------
 
-- [ältere Version](./V9/) mit [Videos](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFGpPj_wWab_BavrA4b8shv)
+- [umfangreichere Version](./V9/) mit [Videos](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFGpPj_wWab_BavrA4b8shv)
 
  
  
