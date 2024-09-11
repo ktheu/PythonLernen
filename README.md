@@ -3,8 +3,6 @@
 
 ## Python Lernen
 
-- [Schnipsel](schnipsel.ipynb)
-
 - [Level 1](./Level1/) - [Lösungen](./Level1_sol/)
 
 - [Level 2](./Level2/)
