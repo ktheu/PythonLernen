@@ -9,11 +9,13 @@
 
 ------
 
-- [ausführliche Version](./V9/) mit [Videos](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFGpPj_wWab_BavrA4b8shv)
+- [ältere Version](./V9/) mit [Videos](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFGpPj_wWab_BavrA4b8shv)
 
 ------
 
 - [Selbstlernkurs CSCIRCLES](https://cscircles.cemc.uwaterloo.ca/de/)
+
+- [Algo.Bwinf](https://algo.bwinf.de/)
 
  
  
