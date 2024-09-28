@@ -1,0 +1,4 @@
+In der Innenwelt des Computers werden Nullen und Einsen verschoben, verrechnet
+und gespeichert. Dass dies keinerlei Einschränkung bedeutet, wissen
+wir bereits: Töne, Bilder und beliebige andere Informationen lassen sich durch
+0–1-Muster codieren.
