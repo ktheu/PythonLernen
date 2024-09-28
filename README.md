@@ -3,9 +3,9 @@
 
 ## Python Lernen
 
-- [Level 1](./Level1/) - [Lösungen](./Level1_sol/)
+- [Teil 1](./Teil1/) - [Lösungen](./Teil1_sol/)
 
-- [Level 2](./Level2/)
+- [Teil 2](./Teil2/)
 
 ------
 
