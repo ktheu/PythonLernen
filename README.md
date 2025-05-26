@@ -14,11 +14,11 @@
 
 - [06 - Listen](./grundlagen/06_listen.ipynb) - [Übungen](./grundlagen/06_listen_uebungen.ipynb)
 
-- [07 - Funktionen](./grundlagen/07_dicts.ipynb) - [Übungen](./grundlagen/07_dicts_uebungen.ipynb)
+- [07 - Dictionaries](./grundlagen/07_dicts.ipynb) - [Übungen](./grundlagen/07_dicts_uebungen.ipynb)
 
-- [08 - dicts, sets und tuples](./grundlagen/08_tupel.ipynb) - [Übungen](./grundlagen/08_tuples_uebungen.ipynb)
-
-- [09 - comprehensions](./grundlagen/09_functionen.ipynb) - [Übungen](./grundlagen/09_functionen_uebungen.ipynb)
+- [08 - Tuples](./grundlagen/08_tupel.ipynb) - [Übungen](./grundlagen/08_tuples_uebungen.ipynb)
+- 
+- [09 - Funktionen](./grundlagen/functionen.ipynb) - [Übungen](./grundlagen/09_functionen_uebungen.ipynb)
 
 - [10 - dateien lesen/schreiben](./grundlagen/10_dateizugriff.ipynb) - [Übungen](./grundlagen/10_dateizugriff_uebungen.ipynb)
 
