@@ -18,7 +18,7 @@
 
 - [08 - Tuples](./grundlagen/08_tupel.ipynb) - [Übungen](./grundlagen/08_tuples_uebungen.ipynb)
  
-- [09 - Funktionen](./grundlagen/functionen.ipynb) - [Übungen](./grundlagen/09_functionen_uebungen.ipynb)
+- [09 - Funktionen](./grundlagen/09_functionen.ipynb) - [Übungen](./grundlagen/09_functionen_uebungen.ipynb)
 
 - [10 - dateien lesen/schreiben](./grundlagen/10_dateizugriff.ipynb) - [Übungen](./grundlagen/10_dateizugriff_uebungen.ipynb)
 
