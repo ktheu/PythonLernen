@@ -1,0 +1,4 @@
+3
+Lena 2
+Malte 3
+Maike 1

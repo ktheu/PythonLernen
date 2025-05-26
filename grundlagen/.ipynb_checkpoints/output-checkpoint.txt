@@ -1,0 +1,3 @@
+Die Summe von 5 und 10 ist 15
+
+Das Produkt von 5 und 10 ist 50
