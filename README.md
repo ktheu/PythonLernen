@@ -30,6 +30,8 @@
  
 #### Verschiedene Themen
 
+- [Thonny](https://youtu.be/Q4uCiR5sSSM) - Installation und Bedienung
+
 - [Thonny Debugger](https://www.youtube.com/playlist?list=PLWeMgMhRDsIEY82lxDVKuAIIu90-CsKuu) - Nutzung des Debuggers in Thonny
 
 - [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen
