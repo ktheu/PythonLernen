@@ -28,7 +28,9 @@
 --------
 
  
+#### Verschiedene Themen
 
+- [Thonny Debug](https://www.youtube.com/playlist?list=PLWeMgMhRDsIEY82lxDVKuAIIu90-CsKuu) - Nutzung des Debuggers in Thonny
 
 
 
