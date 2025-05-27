@@ -38,11 +38,11 @@
 
 - [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen
 
-- [Installation](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFNpEKcz1AMUTds-ayveNkp) - Python Installation mit virtuellen Umgebungen
+<!-- - [Installation](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFNpEKcz1AMUTds-ayveNkp) - Python Installation mit virtuellen Umgebungen -->
 
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
-- [reguläre Ausdrücke](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFk8RPO6C3DzcQfBf8mTGn7) 
+- [Reguläre Ausdrücke](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFk8RPO6C3DzcQfBf8mTGn7) 
 
 
 
