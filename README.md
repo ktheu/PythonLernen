@@ -34,6 +34,8 @@
 
 - [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen
 
+- [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
+
 
 
  
