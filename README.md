@@ -28,7 +28,7 @@
 --------
 
  
-#### Verschiedene Themen
+#### Verschiedenes
 
 - [Thonny](https://youtu.be/Q4uCiR5sSSM) - Installation und Bedienung
 
