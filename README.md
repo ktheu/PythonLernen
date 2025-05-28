@@ -49,7 +49,7 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
-- [Binder](https://youtu.be/J1HYtE8FUT0) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
+- [Binder](./verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
 
 
 
