@@ -2,8 +2,9 @@
 
 -----
 
-
 #### Python Lernen 
+
+Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scratch oder Blockly haben.
 
 - [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](./grundlagen/01_grundlagen.ipynb) - [Übungen](./grundlagen/01_grundlagen_uebungen.ipynb)
 
@@ -27,7 +28,11 @@
 
 --------
 
+#### Python Themen
 
+Eine Reihe von zusätzlichen Themen rund um Python.
+
+- [Reguläre Ausdrücke](./regulaereAusdruecke/regulaereAusdruecke.ipynb) 
 
  
 #### Verschiedenes
@@ -42,7 +47,6 @@
 
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
-- [Reguläre Ausdrücke](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFk8RPO6C3DzcQfBf8mTGn7) 
 
 
 
