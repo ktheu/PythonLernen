@@ -47,6 +47,8 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 <!-- - [Installation](https://www.youtube.com/playlist?list=PLWeMgMhRDsIFNpEKcz1AMUTds-ayveNkp) - Python Installation mit virtuellen Umgebungen -->
 
+- [Jupyter Notebooks](./verschiedenes/jupyter.ipynb)
+
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
 - [Binder](./verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
