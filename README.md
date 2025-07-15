@@ -36,6 +36,8 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Matplotlib](./matplotlib/matplotlib.ipynb)
 
+- [Virtuelle Umgebunen](./venv/venv.ipynb) - [Übung](./venv/venv_uebungen.ipynb)
+
 --------
 
  
