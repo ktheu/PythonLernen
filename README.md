@@ -49,7 +49,7 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Jupyter Debugger](https://youtu.be/Y1NIEuVZBps) - Verwenden des Debuggers in Jupyter Notebooks
 
-- [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen
+<!-- - [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen -->
 
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
