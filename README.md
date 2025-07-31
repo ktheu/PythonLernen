@@ -38,7 +38,7 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Virtuelle Umgebungen](./venv/venv.ipynb) - [Übungen](./venv/venv_uebungen.ipynb)
 
-- [Arcade](./arcade/arcade.ipynb)
+- [Arcade](./arcade/arcade.ipynb) - [Arcade2](./arcade/arcade2.ipynb)
 
 --------
 
