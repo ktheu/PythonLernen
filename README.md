@@ -32,6 +32,8 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 Eine Reihe von zusätzlichen Themen rund um Python.
 
+- [Was ist Python?](./grundlagen/00_wasIstPython.ipynb)
+
 - [Reguläre Ausdrücke](./regulaereAusdruecke/regulaereAusdruecke.ipynb) 
 
 - [Matplotlib](./matplotlib/matplotlib.ipynb)
