@@ -6,7 +6,7 @@
 
 Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scratch oder Blockly haben.
 
-- [Merkhilfe](./grundlagen/merkhilfe.pdf)  
+- [Merkhilfe](./grundlagen/Merkhilfe.pdf)  
 
 - [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](./grundlagen/01_grundlagen.ipynb) - [Übungen](./grundlagen/01_grundlagen_uebungen.ipynb)
 
