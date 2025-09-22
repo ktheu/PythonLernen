@@ -44,6 +44,8 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Arcade](./arcade/arcade.ipynb) - [Arcade2](./arcade/arcade2.ipynb)
 
+- [Shapely](./shapely/shapely.ipynb) - 2D Geometrie in Python
+
 --------
 
  
