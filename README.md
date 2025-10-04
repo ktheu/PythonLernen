@@ -46,6 +46,8 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Shapely](./shapely/shapely.ipynb) - 2D Geometrie in Python
 
+- [Graphviz](./graphviz/graphviz.ipynb) - Graphen Visualisieren in Python
+
 --------
 
  
