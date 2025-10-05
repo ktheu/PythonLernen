@@ -2,7 +2,7 @@
 
 -----
 
-#### Python Lernen 
+#### Python Lernen  
 
 Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scratch oder Blockly haben.
 
