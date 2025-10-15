@@ -12,7 +12,7 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [02 - Strings1, input, f-Strings](./grundlagen/02_strings.ipynb) - [Übungen](./grundlagen/02_strings_uebungen.ipynb)
 
-- [03 - Bedingungen, boolesche Ausdrücke und Operatoren](./grundlagen/03_bedingungen.ipynb) - [Übungen](./grundlagen/03_bedingungen_uebungen.ipynb)
+- [03 - Bedingungen, boolesche Ausdrücke und Operatoren](./grundlagen/03_bedingungen.ipynb) - [Übungen](./grundlagen/03_bedingungen_uebungen.ipynb) - [Zusatzaufgaben](./grundlagen/03_zusatz.ipynb)
 
 - [04 - Schleifen](./grundlagen/04_schleifen.ipynb) - [Übungen](./grundlagen/04_schleifen_uebungen.ipynb)
 
