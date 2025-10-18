@@ -67,6 +67,8 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Binder](./verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
 
+- [Python Online ausführen](./verschiedenes/python_online.md) - Online Python-Interpreter und IDEs
+
 
 
 
