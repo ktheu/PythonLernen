@@ -8,25 +8,25 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [Merkhilfe](./grundlagen/Merkhilfe.pdf)  
 
-- [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/01_grundlagen.ipynb) - [Übungen](./grundlagen/01_grundlagen_uebungen.ipynb)
+- [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/01_grundlagen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/01_grundlagen_uebungen.ipynb)
 
-- [02 - Strings1, input, f-Strings](./grundlagen/02_strings.ipynb) - [Übungen](./grundlagen/02_strings_uebungen.ipynb)
+- [02 - Strings1, input, f-Strings](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/02_strings.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/02_strings_uebungen.ipynb)
 
-- [03 - Bedingungen, boolesche Ausdrücke und Operatoren](./grundlagen/03_bedingungen.ipynb) - [Übungen](./grundlagen/03_bedingungen_uebungen.ipynb) - [Zusatzaufgaben](./grundlagen/03_zusatz.ipynb)
+- [03 - Bedingungen, boolesche Ausdrücke und Operatoren](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/03_bedingungen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/03_bedingungen_uebungen.ipynb) - [Zusatzaufgaben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/03_zusatz.ipynb)
 
-- [04 - Schleifen](./grundlagen/04_schleifen.ipynb) - [Übungen](./grundlagen/04_schleifen_uebungen.ipynb) - [Zusatzaufgaben](./grundlagen/04_zusatz.ipynb)
+- [04 - Schleifen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_schleifen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_schleifen_uebungen.ipynb) - [Zusatzaufgaben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_zusatz.ipynb)
 
-- [05 - Strings2](./grundlagen/05_strings2.ipynb) - [Übungen](./grundlagen/05_strings2_uebungen.ipynb)
+- [05 - Strings2](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2_uebungen.ipynb)
 
-- [06 - Listen](./grundlagen/06_listen.ipynb) - [Übungen](./grundlagen/06_listen_uebungen.ipynb)
+- [06 - Listen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen_uebungen.ipynb)
 
-- [07 - Dictionaries](./grundlagen/07_dicts.ipynb) - [Übungen](./grundlagen/07_dicts_uebungen.ipynb)
+- [07 - Dictionaries](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts_uebungen.ipynb)
 
-- [08 - Tuples](./grundlagen/08_tupel.ipynb) - [Übungen](./grundlagen/08_tuples_uebungen.ipynb)
+- [08 - Tuples](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tupel.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tuples_uebungen.ipynb)
  
-- [09 - Funktionen](./grundlagen/09_functionen.ipynb) - [Übungen](./grundlagen/09_functionen_uebungen.ipynb)
+- [09 - Funktionen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen_uebungen.ipynb)
 
-- [10 - Dateien lesen/schreiben](./grundlagen/10_dateizugriff.ipynb) - [Übungen](./grundlagen/10_dateizugriff_uebungen.ipynb)
+- [10 - Dateien lesen/schreiben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff_uebungen.ipynb)
 
 --------
 
@@ -34,19 +34,19 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 Eine Reihe von zusätzlichen Themen rund um Python.
 
-- [Was ist Python?](./grundlagen/00_wasIstPython.ipynb)
+- [Was ist Python?](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/00_wasIstPython.ipynb)
 
-- [Reguläre Ausdrücke](./regulaereAusdruecke/regulaereAusdruecke.ipynb) 
+- [Reguläre Ausdrücke](https://github.com/ktheu/PythonLernen/blob/main/regulaereAusdruecke/regulaereAusdruecke.ipynb) 
 
-- [Matplotlib](./matplotlib/matplotlib.ipynb)
+- [Matplotlib](https://github.com/ktheu/PythonLernen/blob/main/matplotlib/matplotlib.ipynb)
 
-- [Virtuelle Umgebungen](./venv/venv.ipynb) - [Übungen](./venv/venv_uebungen.ipynb)
+- [Virtuelle Umgebungen](https://github.com/ktheu/PythonLernen/blob/main/venv/venv.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/venv/venv_uebungen.ipynb)
 
-- [Arcade](./arcade/arcade.ipynb) - [Arcade2](./arcade/arcade2.ipynb)
+- [Arcade](https://github.com/ktheu/PythonLernen/blob/main/arcade/arcade.ipynb) - [Arcade2](https://github.com/ktheu/PythonLernen/blob/main/arcade/arcade2.ipynb)
 
-- [Shapely](./shapely/shapely.ipynb) - 2D Geometrie in Python
+- [Shapely](https://github.com/ktheu/PythonLernen/blob/main/shapely/shapely.ipynb) - 2D Geometrie in Python
 
-- [Graphviz](./graphviz/graphviz.ipynb) - Graphen Visualisieren in Python
+- [Graphviz](https://github.com/ktheu/PythonLernen/blob/main/graphviz/graphviz.ipynb) - Graphen Visualisieren in Python
 
 --------
 
@@ -57,7 +57,7 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Thonny Debugger](https://youtu.be/MxcuhOP1tgY) - Nutzung des Debuggers in Thonny
 
-- [Jupyter Notebooks](./verschiedenes/jupyter.ipynb) - Einführung in dem Umgang mit Jupyter Notebooks
+- [Jupyter Notebooks](https://github.com/ktheu/PythonLernen/blob/main/verschiedenes/jupyter.ipynb) - Einführung in dem Umgang mit Jupyter Notebooks
 
 - [Jupyter Debugger](https://youtu.be/Y1NIEuVZBps) - Verwenden des Debuggers in Jupyter Notebooks
 
@@ -65,7 +65,7 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 - [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
 
-- [Binder](./verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
+- [Binder](https://github.com/ktheu/PythonLernen/blob/main/verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
 
 - [Python Online ausführen](./verschiedenes/python_online.md) - Online Python-Interpreter und IDEs
 
