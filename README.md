@@ -26,31 +26,11 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 --------
 
-#### Python Themen
-
-Eine Reihe von zusätzlichen Themen rund um Python.
-
-- [Was ist Python?](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/00_wasIstPython.ipynb)
-
-- [Reguläre Ausdrücke](https://github.com/ktheu/PythonLernen/blob/main/regulaereAusdruecke/regulaereAusdruecke.ipynb) 
-
-- [Matplotlib](https://github.com/ktheu/PythonLernen/blob/main/matplotlib/matplotlib.ipynb)
-
-- [Virtuelle Umgebungen](https://github.com/ktheu/PythonLernen/blob/main/venv/venv.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/venv/venv_uebungen.ipynb)
-
-- [Arcade](https://github.com/ktheu/PythonLernen/blob/main/arcade/arcade.ipynb) - [Arcade2](https://github.com/ktheu/PythonLernen/blob/main/arcade/arcade2.ipynb)
-
-- [Shapely](https://github.com/ktheu/PythonLernen/blob/main/shapely/shapely.ipynb) - 2D Geometrie in Python
-
-- [Graphviz](https://github.com/ktheu/PythonLernen/blob/main/graphviz/graphviz.ipynb) - Graphen Visualisieren in Python
-
---------
-
 - [Thonny](https://youtu.be/Q4uCiR5sSSM) - Installation und Bedienung
 
 - [Thonny Debugger](https://youtu.be/MxcuhOP1tgY) - Nutzung des Debuggers in Thonny
 
-- [Python Online ausführen](./python_online.md) - Online Python-Interpreter und IDEs
+
 
 
 
