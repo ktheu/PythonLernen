@@ -46,24 +46,11 @@ Eine Reihe von zusätzlichen Themen rund um Python.
 
 --------
 
- 
-#### Verschiedenes
-
 - [Thonny](https://youtu.be/Q4uCiR5sSSM) - Installation und Bedienung
 
 - [Thonny Debugger](https://youtu.be/MxcuhOP1tgY) - Nutzung des Debuggers in Thonny
 
-- [Jupyter Notebooks](https://github.com/ktheu/PythonLernen/blob/main/verschiedenes/jupyter.ipynb) - Einführung in dem Umgang mit Jupyter Notebooks
-
-- [Jupyter Debugger](https://youtu.be/Y1NIEuVZBps) - Verwenden des Debuggers in Jupyter Notebooks
-
-<!-- - [Informatik-Ordner](https://youtu.be/uINJ0WSXdh0) - Verknüpfung für Informatik-Ordner und den VSCode Workspace anlegen -->
-
-- [Notebook downloaden](https://youtu.be/uOd7W-huG74) - Download eines Jupyter-Notebooks von Github in den Informatik-Ordner
-
-- [Binder](https://github.com/ktheu/PythonLernen/blob/main/verschiedenes/binder.ipynb) - Ein Jupyter-Notebook, das auf Github gehostet ist, mit Binder ausführen.
-
-- [Python Online ausführen](./verschiedenes/python_online.md) - Online Python-Interpreter und IDEs
+- [Python Online ausführen](./python_online.md) - Online Python-Interpreter und IDEs
 
 
 
