@@ -8,7 +8,7 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [Merkhilfe](./grundlagen/Merkhilfe.pdf)  
 
-- [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](./grundlagen/01_grundlagen.ipynb) - [Übungen](./grundlagen/01_grundlagen_uebungen.ipynb)
+- [01 - Variablen, Zuweisungen, print, Kommentare, arithmetische Operatoren](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/01_grundlagen.ipynb) - [Übungen](./grundlagen/01_grundlagen_uebungen.ipynb)
 
 - [02 - Strings1, input, f-Strings](./grundlagen/02_strings.ipynb) - [Übungen](./grundlagen/02_strings_uebungen.ipynb)
 
