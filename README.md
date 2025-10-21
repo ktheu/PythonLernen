@@ -12,9 +12,9 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [04 - Schleifen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_schleifen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_schleifen_uebungen.ipynb) - [Zusatzaufgaben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/04_zusatz.ipynb)
 
-- [05 - Strings2](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2_uebungen.ipynb)
+- [05 - Strings2](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2_uebungen.ipynb) - [Zusatzaufgaben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_zusatz.ipynb)
 
-- [06 - Listen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen_uebungen.ipynb)
+- [06 - Listen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen_uebungen.ipynb) - [Zusatzaufgaben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_zusatz.ipynb)
 
 - [07 - Dictionaries](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts_uebungen.ipynb)
 
