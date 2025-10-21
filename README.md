@@ -24,6 +24,8 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [10 - Dateien lesen/schreiben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff_uebungen.ipynb)
 
+- [Zusatzaufgaben](./zusatzaufgaben/zusatzaufgaben.md) 
+
 --------
 
 - [Thonny](https://youtu.be/Q4uCiR5sSSM) - Installation und Bedienung
