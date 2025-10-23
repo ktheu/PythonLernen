@@ -32,6 +32,8 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [Thonny Debugger](https://youtu.be/MxcuhOP1tgY) - Nutzung des Debuggers in Thonny
 
+- [Python Online ausführen](./python_online.md)
+
 
 
 

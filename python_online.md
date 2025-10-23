@@ -4,11 +4,8 @@ Ohne Anmeldung Python-Code online ausführen:
 
 [Python Online IDE](https://www.onlineide.pro/playground/python)
 
-[Programiz Python Online Compiler](https://www.programiz.com/python-programming/online-compiler/)
+Mit Anmeldung können Dateien auch gespeichert werden. Es muss dazu kein kostenpflichtiger Plan gewählt werden.  
 
-Mit Anmeldung und erweiterten Funktionen:
-
-[Trinket Python](https://trinket.io/)
 
 
 
