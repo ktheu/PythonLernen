@@ -14,7 +14,7 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [05 - Strings2](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/05_strings2_uebungen.ipynb) 
 
-- [06 - Listen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen_uebungen.ipynb) 
+- [06 - Listen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/06_listen_uebungen.ipynb) - [Aufgaben](./aufgaben/06_listen/aufgaben.pdf) - [Lösungen](./aufgaben/06_listen/aufgaben_loes.pdf)
 
 - [07 - Dictionaries](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts_uebungen.ipynb)
 
