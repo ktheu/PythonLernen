@@ -20,7 +20,7 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [08 - Tuples](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tupel.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tuples_uebungen.ipynb) -  [Aufgaben](./aufgaben/08_tuples/aufgaben.pdf) - [Lösungen](./aufgaben/08_tuples/aufgaben_loes.pdf)
  
-- [09 - Funktionen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen_uebungen.ipynb)
+- [09 - Funktionen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen_uebungen.ipynb) -  [Aufgaben](./aufgaben/09_funktionen/aufgaben.pdf) - [Lösungen](./aufgaben/09_funktionen/aufgaben_loes.pdf)
 
 - [10 - Dateien lesen/schreiben](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/10_dateizugriff_uebungen.ipynb)
 
