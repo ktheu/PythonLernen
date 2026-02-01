@@ -18,7 +18,7 @@ Für Python-Anfänger, die schon ein bisschen Programmiererfahrung z.B. in Scrat
 
 - [07 - Dictionaries](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/07_dicts_uebungen.ipynb) -  [Aufgaben](./aufgaben/07_dicts/aufgaben.pdf) - [Lösungen](./aufgaben/07_dicts/aufgaben_loes.pdf)
 
-- [08 - Tuples](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tupel.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tuples_uebungen.ipynb)
+- [08 - Tuples](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tupel.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/08_tuples_uebungen.ipynb) -  [Aufgaben](./aufgaben/08_tuples/aufgaben.pdf) - [Lösungen](./aufgaben/08_tuples/aufgaben_loes.pdf)
  
 - [09 - Funktionen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen.ipynb) - [Übungen](https://github.com/ktheu/PythonLernen/blob/main/grundlagen/09_functionen_uebungen.ipynb)
 
